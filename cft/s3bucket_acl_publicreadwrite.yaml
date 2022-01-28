@@ -34,6 +34,8 @@ Resources:
       Tags:
         - Key: application-asset-insight-id
           Value: AssetId
+        - Key: yor_trace
+          Value: f398b2cd-5bb2-4a3e-9fa6-5479c028af7a
       VersioningConfiguration:
         Status: Enabled
   SourceBucketPolicy:
